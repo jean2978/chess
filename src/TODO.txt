@@ -1,0 +1,3 @@
+#1: Refactor each square to own component in order to give it props
+#2 Give each piece different properties depending on type
+#3: Create x and y grid for canvas...
